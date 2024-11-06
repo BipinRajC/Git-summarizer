@@ -58,6 +58,7 @@ npm start
 Visit the homepage to enter your email and subscribe to a GitHub repository.
 Select your role (Manager, Peer Developer, Learner) and customize your preferences.
 Sit back and let the system handle the rest! You’ll receive tailored summaries in your inbox based on the latest repository commits.
+meow
 
 
 
